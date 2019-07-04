@@ -9,3 +9,5 @@ Une message box vous indiquant que votre licence a été enregistré avec succè
  - Dans cette message Box cliquer sur Ok : le logiciel s'ouvrira et 2 fichiers apparaiteront à la racine de votre exécutable (relic.ctu et reser.ctu).
  - Tant que ces 2 fichiers seront présent à la racine de votre exe la fenêtre vous demandant un numéro de licence
  n'apparaitera pas.
+-------------------------------------------------------------------------------------------------------------
+Les guides utilisateurs et l'aide en ligne ont été crées à l'époque où ce logiciel était propriétaire : dans la configuration actuelle ne pas tenir compte des parties sur le contrat de licence qui de faite n'ont plus lieu d'être.
