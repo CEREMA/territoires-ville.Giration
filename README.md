@@ -10,4 +10,4 @@ Une message box vous indiquant que votre licence a été enregistré avec succè
  - Tant que ces 2 fichiers seront présent à la racine de votre exe la fenêtre vous demandant un numéro de licence
  n'apparaitera pas.
 -------------------------------------------------------------------------------------------------------------
-Les guides utilisateurs (.pdf et .odt) et l'aide en ligne (.chm) ont été crées à l'époque où ce logiciel était propriétaire : dans la configuration actuelle ne pas tenir compte des parties sur le contrat de licence qui de faite n'ont plus lieu d'être.
+Les guides utilisateurs (.pdf et .odt) et l'aide en ligne (.chm) ont été crées à l'époque où ce logiciel était propriétaire : dans la configuration actuelle ne pas tenir compte des parties sur le contrat de licence qui de fait n'ont plus lieu d'être.
